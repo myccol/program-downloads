@@ -7,16 +7,16 @@
 
 | 프로그램 | 설명 | 버전 | 운영체제 | 다운로드 |
 |---|---|---|---|---|
-| **소리상자** | AI 음성 생성 프로그램 · MSI 설치형 | 0.5.6 | Windows x64 | **[MSI 다운로드](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.6/Sorisangja-0.5.6-Windows-x64.msi)** · [사용설명서](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.6/Sorisangja-0.5.6-Quick-Start-Light-2pages.pdf) · [설치 안내](https://github.com/myccol/program-downloads/releases/tag/sorisangja-v0.5.6) |
+| **소리상자** | AI 음성 생성 프로그램 · MSI 설치형 | 0.5.10 (myccol) | Windows x64 | **[MSI 다운로드](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Windows-x64.msi)** · [설치 안내](https://github.com/myccol/program-downloads/releases/tag/sorisangja-v0.5.10-myccol) · [SHA-256](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/SHA256SUMS.txt) |
 | **Content FindAll** | 문서 검색 프로그램 · 포터블 버전 | 3.0.5 | Windows | **[ZIP 다운로드](https://github.com/myccol/program-downloads/releases/download/content-findall-v3.0.5/Content_FindAll_Ver_3.0.5_Portable.zip)** · [실행 안내](https://github.com/myccol/program-downloads/releases/tag/content-findall-v3.0.5) |
 
 ## 소리상자 설치 방법
 
-1. 위의 **MSI 다운로드**를 눌러 설치파일을 받습니다. 파일 크기는 약 592 MiB입니다.
+1. 위의 **MSI 다운로드**를 눌러 설치파일을 받습니다. 파일 크기는 약 571 MiB입니다.
 2. 기존 앱을 사용 중이면 종료하고 중요한 데이터를 백업한 뒤 MSI를 실행합니다.
 3. 설치 후 앱의 **[모델]** 메뉴에서 사용할 AI 모델을 다운로드합니다.
 
-Python·FFmpeg·기본 CPU 실행 구성은 포함되어 있습니다. AI 모델과 GPU 가속 구성은 앱에서 별도로 다운로드합니다. 코드 서명되지 않은 설치파일이며, 실제 설치 교체·모델 생성·GPU 동작은 미검증입니다. 제3자 라이선스 및 완전한 대응 소스 검토 미완료 상태는 [릴리즈 안내](https://github.com/myccol/program-downloads/releases/tag/sorisangja-v0.5.6)를 확인하세요.
+Python·FFmpeg·기본 CPU 실행 구성은 포함되어 있습니다. AI 모델과 GPU 가속 구성은 앱에서 별도로 다운로드합니다. 코드 서명되지 않은 설치파일이며, 실제 설치 교체·모델 생성·GPU 동작은 미검증입니다. 제3자 라이선스 및 완전한 대응 소스 검토 미완료 상태는 [릴리즈 안내](https://github.com/myccol/program-downloads/releases/tag/sorisangja-v0.5.10-myccol)를 확인하세요.
 
 ## Content FindAll 실행 방법
 
