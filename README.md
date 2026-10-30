@@ -7,7 +7,7 @@
 
 | 프로그램 | 설명 | 버전 | 운영체제 | 다운로드 |
 |---|---|---|---|---|
-| **소리상자** | AI 음성 생성 프로그램 · MSI 설치형 | 0.5.10 (myccol) | Windows x64 | **[설치본 ZIP 다운로드](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Windows-x64-Installer.zip)** · [설치 안내](https://github.com/myccol/program-downloads/releases/tag/sorisangja-v0.5.10-myccol) · [SHA-256](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Installer-ZIP-SHA256SUMS.txt) |
+| **소리상자** | AI 음성 생성 프로그램 · MSI 설치형 | 0.5.10 (myccol) | Windows x64 | **[설치본 ZIP 다운로드](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Windows-x64-Installer-v2.zip)** · [설치 안내](https://github.com/myccol/program-downloads/releases/tag/sorisangja-v0.5.10-myccol) · [SHA-256](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Installer-v2-SHA256SUMS.txt) |
 | **Content FindAll** | 문서 검색 프로그램 · 포터블 버전 | 3.0.5 | Windows | **[ZIP 다운로드](https://github.com/myccol/program-downloads/releases/download/content-findall-v3.0.5/Content_FindAll_Ver_3.0.5_Portable.zip)** · [실행 안내](https://github.com/myccol/program-downloads/releases/tag/content-findall-v3.0.5) |
 
 ## 소리상자 설치 방법
@@ -21,7 +21,7 @@
 
 **설치본 ZIP은 MSI 설치파일을 압축한 것으로, 포터블 버전이 아닙니다.** ZIP으로 받아도 Edge·Windows 보안 경고나 기관 보안 정책에 따른 차단이 발생할 수 있습니다. 기관 정책으로 차단되면 전산 담당자에게 확인하세요.
 
-ZIP 파일의 무결성은 [ZIP SHA-256 체크섬](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Installer-ZIP-SHA256SUMS.txt)으로 확인할 수 있습니다.
+ZIP 파일의 무결성은 [ZIP SHA-256 체크섬](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Installer-v2-SHA256SUMS.txt)으로 확인할 수 있습니다.
 
 Python·FFmpeg·기본 CPU 실행 구성은 포함되어 있습니다. AI 모델과 GPU 가속 구성은 앱에서 별도로 다운로드합니다.
 
