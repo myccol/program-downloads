@@ -7,8 +7,18 @@
 
 | 프로그램 | 설명 | 버전 | 운영체제 | 다운로드 |
 |---|---|---|---|---|
+| **행정 도우미** | 문서 편집·AI 문서 작성 · 설치형·자동 업데이트 | 1.19.0 | Windows x64 | **[설치 파일 다운로드](https://github.com/myccol/program-downloads/releases/download/adminhelper-update/AdminHelper-Setup-1.19.0.exe)** · [설치·업데이트 안내](https://github.com/myccol/program-downloads/releases/tag/adminhelper-update) · [SHA-256](https://github.com/myccol/program-downloads/releases/download/adminhelper-update/SHA256SUMS.txt) |
 | **소리상자** | AI 음성 생성 프로그램 · MSI 설치형 | 0.5.10 (myccol) | Windows x64 | **[설치본 ZIP 다운로드](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Windows-x64-Installer-v2.zip)** · [설치 안내](https://github.com/myccol/program-downloads/releases/tag/sorisangja-v0.5.10-myccol) · [SHA-256](https://github.com/myccol/program-downloads/releases/download/sorisangja-v0.5.10-myccol/Sorisangja-0.5.10-Installer-v2-SHA256SUMS.txt) |
 | **Content FindAll** | 문서 검색 프로그램 · 포터블 버전 | 3.0.5 | Windows | **[ZIP 다운로드](https://github.com/myccol/program-downloads/releases/download/content-findall-v3.0.5/Content_FindAll_Ver_3.0.5_Portable.zip)** · [실행 안내](https://github.com/myccol/program-downloads/releases/tag/content-findall-v3.0.5) |
+
+## 행정 도우미 설치와 업데이트
+
+1. 위의 **설치 파일 다운로드**를 눌러 `AdminHelper-Setup-1.19.0.exe`를 받습니다.
+2. 문서를 저장하고 기존 행정 도우미를 종료한 뒤 설치 파일을 실행합니다. 포터블을 사용하던 경우에도 한 번 설치하세요.
+3. 기존 문서와 설정은 그대로 사용합니다. 앱 데이터 폴더를 삭제하지 마세요.
+4. 이후 새 버전 안내에서 다운로드를 선택하고, 완료되면 **다시 시작 및 설치**를 누릅니다. 자동 확인을 꺼도 메뉴에서 직접 확인할 수 있습니다.
+
+서명 없는 Windows x64 설치본입니다. Windows에서 게시자 경고가 나올 수 있습니다. 설치 파일과 체크섬을 확인하세요. 업데이트는 행정 도우미 전용 주소를 사용하며 이 저장소의 다른 프로그램과 구분됩니다.
 
 ## 소리상자 설치 방법
 
